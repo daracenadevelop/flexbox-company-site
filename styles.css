@@ -194,6 +194,7 @@ nav{
     text-align: center;
     padding: 1rem;
 }
+
 .informations{
     display: flex;
     flex-flow: column wrap;
